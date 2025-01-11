@@ -1,4 +1,5 @@
-Libraries and Frameworks
+#RAG bot with Langchain
+#Libraries and Frameworks
 Google Generative AI (Gemini 2.0): Used for generating responses through advanced language generation capabilities. The API key is configured via genai.configure.
 
 LangChain: A powerful tool for creating and managing documents, retrievers, and vector stores. Key modules used include:
